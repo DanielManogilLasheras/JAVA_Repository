@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fca80cea-92a1-4c9f-8cc4-dcfcca67f07a" name="Changes" comment="BaseLine of classes and methods">
+      <change afterPath="$PROJECT_DIR$/src/controller/Library.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/File.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/lombok.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/lombok.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Entry.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Entry.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/model/Audio.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/Audio.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/model/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/Book.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/model/Element.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/model/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/model/Video.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/Video.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2ePR73DWrzdEC0QniZofCvSFP47" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Entry.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/dmano/Github/Java_Repository/PROJECTS/Project_Folders/Multimedia_Library",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "C:/Users/dmano/IdeaProjects/Biblioteca_Multimedia/src/Main.java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fca80cea-92a1-4c9f-8cc4-dcfcca67f07a" name="Changes" comment="" />
+      <created>1711804056576</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1711804056576</updated>
+      <workItem from="1711804057693" duration="19000" />
+      <workItem from="1711804162851" duration="4172000" />
+      <workItem from="1712485647465" duration="9272000" />
+      <workItem from="1712501297207" duration="364000" />
+      <workItem from="1712501692927" duration="17128000" />
+      <workItem from="1712572158914" duration="23316000" />
+      <workItem from="1712601634277" duration="1880000" />
+      <workItem from="1712655356910" duration="903000" />
+      <workItem from="1712758007544" duration="40000" />
+      <workItem from="1712774673049" duration="48000" />
+      <workItem from="1712784873896" duration="5000" />
+      <workItem from="1712836695057" duration="79000" />
+      <workItem from="1712836804216" duration="4000" />
+      <workItem from="1712837050192" duration="762000" />
+      <workItem from="1712916976966" duration="783000" />
+      <workItem from="1713102491664" duration="17000" />
+      <workItem from="1713180807975" duration="3086000" />
+      <workItem from="1713211469566" duration="8000" />
+      <workItem from="1713211691617" duration="13000" />
+      <workItem from="1713211769837" duration="5000" />
+      <workItem from="1713211802281" duration="14000" />
+      <workItem from="1713212996567" duration="625000" />
+      <workItem from="1713295174697" duration="18000" />
+      <workItem from="1713374380997" duration="589000" />
+      <workItem from="1713389880998" duration="28000" />
+      <workItem from="1713436855507" duration="108000" />
+      <workItem from="1725895313402" duration="1090000" />
+      <workItem from="1726058089613" duration="1846000" />
+    </task>
+    <task id="LOCAL-00001" summary="BaseLine of classes and methods">
+      <option name="closed" value="true" />
+      <created>1711807743068</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1711807743068</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="BaseLine of classes and methods" />
+    <option name="LAST_COMMIT_MESSAGE" value="BaseLine of classes and methods" />
+  </component>
+</project>
